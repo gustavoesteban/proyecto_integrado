@@ -1,0 +1,8 @@
+*.swp
+id_rsa.pub
+kubeconfig.yaml
+.terraform
+terraform.tf*
+test
+helm.sh
+README.md
